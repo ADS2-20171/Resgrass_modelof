@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.1.2.1.5:1", "", "Pagos  y Confirmacion", "EARoot/EA1/EA1/EA2/EA1/EA5/EA73.htm", "175.png", "7", "0", "", "Logical diagram0","{67F39FE7-344E-4873-8BEB-5C23C45BB9C9}");
+tocTab[tocTab.length] = new Array("1.1.2.1.5:2", "", "Class1", "EARoot/EA1/EA1/EA2/EA1/EA5/EA75.htm", "5.png", "235", "0", "", "Class0","{4439A278-5D04-4fa5-839A-0F1E57BF3F2D}");
+tocTab[tocTab.length] = new Array("1.1.2.1.5:3", "", "Cliente", "EARoot/EA1/EA1/EA2/EA1/EA5/EA76.htm", "5.png", "234", "0", "", "Class0","{8E4E70D4-7457-4a16-8908-23B8279563AC}");
+tocTab[tocTab.length] = new Array("1.1.2.1.5:4", "", "Credito", "EARoot/EA1/EA1/EA2/EA1/EA5/EA77.htm", "5.png", "201", "0", "", "Class0","{6467F3E4-7B7C-47d7-9AB4-50B59F64510B}");
+tocTab[tocTab.length] = new Array("1.1.2.1.5:5", "", "Efectivo", "EARoot/EA1/EA1/EA2/EA1/EA5/EA78.htm", "5.png", "200", "0", "", "Class0","{96704223-0500-4b67-BE06-CDD6C0C8CBCA}");
+tocTab[tocTab.length] = new Array("1.1.2.1.5:6", "", "Pago", "EARoot/EA1/EA1/EA2/EA1/EA5/EA79.htm", "5.png", "199", "0", "", "Class0","{88C63DBE-7CCE-4f2f-B5E6-2EEEEA31DE72}");

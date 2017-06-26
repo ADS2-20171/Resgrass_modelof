@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("1", "1", "Modelo de clases", "EARoot/EA1.htm", "31.png", "", "", "{3A882B44-7EB5-476b-993E-2B2D026047A2}", "Package");
+tocTab[tocTab.length] = new Array("2", "", "Mdelo de Datos", "EARoot/EA2.htm", "31.png", "", "", "{A44ABE1F-8B48-4ac9-B23A-DE060D5B7B90}", "Package");

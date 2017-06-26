@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.3.2:1", "", "ControllerComprobante", "EARoot/EA1/EA1/EA3/EA2/EA129.htm", "175.png", "49", "0", "", "Logical diagram0","{C7C425F5-7559-4a73-8261-F090283D1A79}");
+tocTab[tocTab.length] = new Array("1.1.3.2:2", "", "Det_ComprobanteSerializer", "EARoot/EA1/EA1/EA3/EA2/EA131.htm", "5.png", "226", "0", "", "Class0","{B0720DC2-D1B3-453d-893F-CAF7E2F094E2}");
+tocTab[tocTab.length] = new Array("1.1.3.2:3", "", "Det_ComprobanteView", "EARoot/EA1/EA1/EA3/EA2/EA132.htm", "5.png", "227", "0", "", "Class0","{3CB7EF33-9BB2-4c68-A462-F427DFE582F6}");
